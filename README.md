@@ -7,14 +7,22 @@ Add more files to run with the program.
 
 # Commands
 Allowed commands:
+
 PLACE [X],[Y],[FACE] 
+| [X], [Y] : Integer between 0 and 4. [FACE] : NORTH,EAST,WEST or SOUTH.
+
 MOVE
+
 LEFT
+
 RIGHT
+
 REPORT
 
-[X], [Y] : Integer between 0 and 4.
-[FACE] : NORTH,EAST,WEST or SOUTH.
+
+
+
+
 
 All command words are case sensitive. Extra chars after the word is ignored.
 
