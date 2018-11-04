@@ -9,7 +9,8 @@ Add more files to run with the program.
 Allowed commands:
 
 PLACE [X],[Y],[FACE] 
-| [X], [Y] : Integer between 0 and 4. [FACE] : NORTH,EAST,WEST or SOUTH.
+
+( [X], [Y] : Integer between 0 and 4. [FACE] : NORTH,EAST,WEST or SOUTH)
 
 MOVE
 
